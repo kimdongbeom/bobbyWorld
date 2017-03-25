@@ -1,0 +1,19 @@
+### STS ###
+target/
+!/.mvn/wrapper/maven-wrapper.jar
+target/
+bin/
+.mvn/
+.settings/
+persistent.adapter/
+.classpath
+.project
+mvnw
+mvnw.cmd
+d:/
+.apt_generated
+.factorypath
+.project
+.settings
+.springBeans
+
